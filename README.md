@@ -23,8 +23,6 @@ Make it so you keep playing until we say: 'Sensei, I am at peace'
 - input = 'Sensei, I am at peace'
 - output = 'Sometimes, what heart know, head forget'
 
-This is a repo for the bizzzzuu game
-
 ## Running the tests
 
 ## Running the program
